@@ -18,3 +18,15 @@
 
 ## 目录结构
 
+```
+├── customer-service-bot/      # 智能客服机器人
+│   ├── prompt.md               # 人设与回复逻辑
+│   └── faq-sample.txt          # 示例FAQ知识库
+├── rag-knowledge-qa/           # 知识库问答（RAG）
+│   ├── prompt.md
+│   └── sample-doc/             # 示例PDF文档
+├── ecommerce-copywriter/       # 电商文案工作流
+│   ├── prompt.md               # 大模型节点Prompt
+│   └── workflow-screenshot.png  # 工作流画布截图
+└── README.md
+```
